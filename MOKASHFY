@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    body {
+      background: linear-gradient(to bottom, #0a1628, #1a3a5c);
+      font-family: Arial;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      color: gold;
+      font-size: 36px;
+      letter-spacing: 2px;
+      text-shadow: 0 0 10px gold;
+    }
+
+    .بطاقة {
+      background-color: rgba(255, 255, 255, 0.1);
+      border: 1px solid gold;
+      border-radius: 20px;
+      padding: 30px;
+      margin: 20px auto;
+      max-width: 400px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    }
+
+    p {
+      color: #cccccc;
+      line-height: 2;
+      font-size: 16px;
+    }
+
+    .زر {
+      background-color: gold;
+      color: black;
+      padding: 12px 30px;
+      border-radius: 25px;
+      font-weight: bold;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>✨ شركة المكاشفي العالمية ✨</h1>
+
+  <div class="بطاقة">
+    <p>🌍 شركة استثمارية رائدة</p>
+    <p>💼 نعمل في التعدين والتجارة والزراعة</p>
+    <p>📍 السودان والعالم</p>
+    <br> كن معنا تصل </p>
+    <button class="زر">تواصل معنا</button>
+  </div>
+
+</body>
+
+</html>
